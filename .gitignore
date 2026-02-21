@@ -1,0 +1,13 @@
+# Godot generated files
+*.md5
+*.cache
+*.cfg
+*.ctex
+*.bin
+*.import
+*.export
+
+# Godot import and cache
+.godot/
+.import/
+export_presets.cfg

@@ -1,0 +1,10 @@
+63f7b34db8d8cdea90c76aacccf841ec
+::res://::1771673611
+bullet.png::CompressedTexture2D::2556222391780183856::1771666622::1771667239::1::::<><><>0<>0<>462f68e1b2820d9b4defbd868cb3b94e<>res://.godot/imported/bullet.png-ff1424653e10246c11e3724e402c519e.ctex::
+bullets.gd::GDScript::4188134944494757793::1771671783::0::1::::<>Node2D<><>0<>0<><>::
+face_happy.png::CompressedTexture2D::9167799393604337806::1771666622::1771667239::1::::<><><>0<>0<>aea25c01ecad7a27b6ca990fffe2094b<>res://.godot/imported/face_happy.png-38d387d31ec13459f749c93ce3d75d80.ctex::
+face_sad.png::CompressedTexture2D::2336560288098396304::1771666622::1771667239::1::::<><><>0<>0<>a0088e6c6442b131fd266ff9e038f2aa<>res://.godot/imported/face_sad.png-0ac7165eab24f595aba17a746a66c550.ctex::
+icon.webp::CompressedTexture2D::3626017087650301524::1771666622::1771667239::1::::<><><>0<>0<>589028de9034123a3c6890116d339791<>res://.godot/imported/icon.webp-e94f9a68b0f625a567a797079e4d325f.ctex::
+player.gd::GDScript::7813354639291823932::1771671803::0::1::::<>Node2D<><>0<>0<><>::
+README.md::TextFile::-1::1771666622::0::1::::<><><>0<>0<><>::
+shower.tscn::PackedScene::7087114097424366251::1771671803::0::1::::<><><>0<>0<><>::uid://b0w08acdnfvsr::::res://bullets.gd<>uid://d3u7k0742d5ug::::res://face_happy.png<>uid://8j32onnr4qo3::::res://face_sad.png<>uid://djk32rvh5thh1::::res://player.gd
